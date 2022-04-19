@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PA1K58zl48VWDvWbOxxT7JAO3xP0/RXHg+QA+6NRWcntzSVHHywFnjY9BLrjr7Nr2qVylgyrlXfbGUl54XITJA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\xo-restaurant\\sources\\XO\\XO.Business.Interfaces\\XO.Business.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namto\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.0\\microsoft.aspnetcore.http.features.3.1.0.nupkg.sha512",
+    "C:\\Users\\namto\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\namto\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

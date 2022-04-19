@@ -1,0 +1,10 @@
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\bin\Debug\netcoreapp3.1\XO.Repository.Interfaces.deps.json
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\bin\Debug\netcoreapp3.1\XO.Repository.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\bin\Debug\netcoreapp3.1\XO.Repository.Interfaces.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.AssemblyInfoInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.AssemblyInfo.cs
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Repository.Interfaces\obj\Debug\netcoreapp3.1\XO.Repository.Interfaces.pdb

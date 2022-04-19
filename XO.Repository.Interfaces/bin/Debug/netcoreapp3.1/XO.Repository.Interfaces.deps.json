@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XO.Repository.Interfaces/1.0.0": {
+        "runtime": {
+          "XO.Repository.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XO.Repository.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

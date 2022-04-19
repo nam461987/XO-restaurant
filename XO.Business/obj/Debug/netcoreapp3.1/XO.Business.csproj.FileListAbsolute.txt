@@ -1,0 +1,10 @@
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Business.deps.json
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Business.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Business.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.csproj.AssemblyReference.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.AssemblyInfoInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.AssemblyInfo.cs
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.csproj.CoreCompileInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.pdb

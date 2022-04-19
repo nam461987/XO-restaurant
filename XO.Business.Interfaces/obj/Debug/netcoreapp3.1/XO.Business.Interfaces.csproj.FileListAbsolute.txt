@@ -1,0 +1,10 @@
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\bin\Debug\netcoreapp3.1\XO.Business.Interfaces.deps.json
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\bin\Debug\netcoreapp3.1\XO.Business.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\bin\Debug\netcoreapp3.1\XO.Business.Interfaces.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.csproj.AssemblyReference.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.AssemblyInfoInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.AssemblyInfo.cs
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.csproj.CoreCompileInputs.cache
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business.Interfaces\obj\Debug\netcoreapp3.1\XO.Business.Interfaces.pdb

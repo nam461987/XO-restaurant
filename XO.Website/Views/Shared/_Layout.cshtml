@@ -1,20 +1,38 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet">
     <title>@ViewData["Title"] - XO Restaurant</title>
 
     @RenderSection("Metas", required: false)
 
+    <link rel="stylesheet"  href="/css/kube.css">
+	<link rel="stylesheet"  href="/css/font-awesome.css">
+	<link rel="stylesheet"  href="/css/owl.carousel.min.css">
+	<link rel="stylesheet"  href="/css/swipebox.css">
+	<link rel="stylesheet"  href="/css/style.css">
 
     @RenderSection("Styles", required: false)
 
 </head>
-<body>
+<body class="xo_home">
+
+	<partial name="_HeaderPartial" />
 
     @RenderBody()
 
+	<partial name="_FooterPartial" />
+
+	<script src="/js/jquery-3.2.1.min.js"></script>
+	<script src="/js/owl.carousel.min.js"></script>
+	<script src="/js/stripes.js"></script>
+	<script src="/js/jquery.swipebox.js"></script>
+	<script src="/js/kube.js"></script>
+	<script src="/js/index.js"></script>
     @RenderSection("Scripts", required: false)
 </body>
 </html>

@@ -4,3 +4,8 @@
 
 /XO.Website/appsettings.json
 /XO.Website/appsettings.Development.json
+/XO.Entities
+/XO.API/Startup.cs
+/XO.API/Program.cs
+/XO.API/appsettings.json
+/XO.API/appsettings.Development.json
