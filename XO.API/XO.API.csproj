@@ -15,7 +15,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\XO.Business.Interfaces\XO.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\XO.Business\XO.Business.csproj" />
     <ProjectReference Include="..\XO.Entities\XO.Entities.csproj" />
+    <ProjectReference Include="..\XO.Repository\XO.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Keys\" />
   </ItemGroup>
 
 </Project>

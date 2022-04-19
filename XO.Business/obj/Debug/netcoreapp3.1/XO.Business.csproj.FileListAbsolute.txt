@@ -8,3 +8,12 @@ D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Busin
 D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.csproj.CoreCompileInputs.cache
 D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.dll
 D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Business.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Common.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Entities.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Repository.Interfaces.dll
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Business.Interfaces.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Common.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Entities.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\bin\Debug\netcoreapp3.1\XO.Repository.Interfaces.pdb
+D:\Project\xo-restaurant\sources\XO\XO.Business\obj\Debug\netcoreapp3.1\XO.Business.csproj.CopyComplete

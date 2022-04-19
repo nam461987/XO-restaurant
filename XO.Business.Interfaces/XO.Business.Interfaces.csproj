@@ -8,4 +8,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="3.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\XO.Common\XO.Common.csproj" />
+    <ProjectReference Include="..\XO.Entities\XO.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
